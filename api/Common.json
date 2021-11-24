@@ -1,0 +1,8 @@
+{
+    "definitions": {
+        "Common": {
+            "description": "Common definition",
+            "properties": {}
+          }
+    }
+}
